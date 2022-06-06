@@ -55,3 +55,4 @@ list_employers = [
         'total_salary': 0
      }
 ]
+
